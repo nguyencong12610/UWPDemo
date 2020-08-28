@@ -1,0 +1,2 @@
+C:\Users\nguye\source\repos\UWPDataTest\DataAccess\DataAccessLibrary.csproj;x86
+C:\Users\nguye\source\repos\UWPDataTest\UWPDataTest\UWPDataTest.csproj;x86
